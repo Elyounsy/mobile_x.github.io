@@ -1,0 +1,424 @@
+{
+  "jid3-mo": [
+
+{
+"title": "اللغة العربية – اداب",
+"image": "ic_arabic",
+"image_page_video": "img_arabic",
+"typ-doro": "arabic-0"
+
+},
+
+{
+"title": "التاريخ - علمي (علوم)",
+"image": "ic_history",
+"image_page_video": "img_history",
+"typ-doro": "history-0-3olom"
+},
+
+{
+"title": "التاريخ - اداب وعلوم انسانية",
+"image": "ic_history",
+"image_page_video": "img_history",
+"typ-doro": "history-0-adab"
+},
+
+{
+"title": "الجغرافيا - علمي (علوم)",
+"image": "ic_geography",
+"image_page_video": "img_geography",
+"typ-doro": "geo-0-3olom"
+},
+
+{
+"title": "الجغرافيا - اداب وعلوم انسانية",
+"image": "ic_geography",
+"image_page_video": "img_geography",
+"typ-doro": "geo-0-adab"
+},
+
+{
+"title": "التربية الإسلامية",
+"image": "ic_islamic",
+"image_page_video": "img_islamic",
+"typ-doro": "islamic-0"
+},
+
+{
+"title": "الرياضيات",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "maths-0"
+},
+
+{
+"title": "الرياضيات – خيار فرنسية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "maths-0-fr"
+},
+
+{
+"title": "الرياضيات – اداب",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "maths-0-adab"
+},
+
+{
+"title": "اللغة الفرنسية",
+"image": "ic_francais",
+"image_page_video": "img_french",
+"typ-doro": "fr-0"
+},
+
+{
+"title": "الفيزياء والكيمياء",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "pc-0"
+},
+
+{
+"title": "الفيزياء والكيمياء – خيار فرنسية",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "pc-0-fr"
+},
+
+{
+"title": "الفلسفة",
+"image": "ic_philosophie",
+"image_page_video": "img_philosophie",
+"typ-doro": "philo-0"
+},
+
+{
+"title": "اللغة الانجليزية",
+"image": "ic_englais",
+"image_page_video": "img_english",
+"typ-doro": "en-0"
+},
+
+{
+"title": "علوم الحياة والارض",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-0"
+},
+
+{
+"title": "علوم الحياة والارض – خيار فرنسية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-0-fr"
+},
+
+{
+"title": "علوم الحياة والارض – اداب",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-0-adab"
+}
+
+],
+
+
+"oula-bac": [
+
+{
+"title": "اللغة العربية – اداب وعلوم انسانية",
+"image": "ic_arabic",
+"image_page_video": "img_arabic",
+"typ-doro": "arabic-1-adb"
+},
+
+{
+"title": "اللغة العربية – علوم",
+"image": "ic_arabic",
+"image_page_video": "img_arabic",
+"typ-doro": "arabic-0-3lm"
+},
+
+{
+"title": "التاريخ - للشعب العلمية والتقنية",
+"image": "ic_history",
+"image_page_video": "img_history",
+"typ-doro": "history-1-3lm"
+},
+
+{
+"title": "التاريخ - للشعب الأدبية",
+"image": "ic_history",
+"image_page_video": "img_history",
+"typ-doro": "history-1-adb"
+},
+
+{
+"title": "الجغرافيا - للشعب العلمية والتقنية",
+"image": "ic_geography",
+"image_page_video": "img_geography",
+"typ-doro": "geo-1-3lm"
+},
+
+{
+"title": "الجغرافيا - للشعب الأدبية",
+"image": "ic_geography",
+"image_page_video": "img_geography",
+"typ-doro": "geo-1-adb"
+},
+
+{
+"title": "التربية الإسلامية",
+"image": "ic_islamic",
+"image_page_video": "img_islamic",
+"typ-doro": "islamic-1"
+},
+
+
+{
+"title": "الرياضيات – شعبة الأداب والعلوم الانسانية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "math-1-adb"
+},
+
+{
+"title": "الرياضيات – شعبة العلوم التجريبية و التكنولوجيات",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "math-1-3lm-tj"
+},
+
+{
+"title": "الرياضيات – خيار فرنسية علوم تجريبية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "math-1-3lm-tj-fr"
+},
+
+{
+"title": "الرياضيات – شعبة العلوم الرياضية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "math-0-3lm-mth"
+},
+
+{
+"title": "الرياضيات – خيار فرنسية علوم رياضية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "math-0-fr-mth"
+},
+
+{
+"title": "اللغة الفرنسية",
+"image": "ic_francais",
+"image_page_video": "img_french",
+"typ-doro": "fr-1"
+},
+
+{
+"title": "الفيزياء والكيمياء - علوم رياضية وتجريبية",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "pc-1"
+},
+
+{
+"title": "الفيزياء والكيمياء – خيار فرنسية علوم تجريبية ورياضية",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "pc-1-3lm-tj-fr"
+},
+
+
+{
+"title": "الفلسفة",
+"image": "ic_philosophie",
+"image_page_video": "img_philosophie",
+"typ-doro": "philo-1"
+},
+
+{
+"title": "اللغة الانجليزية",
+"image": "ic_englais",
+"image_page_video": "img_english",
+"typ-doro": "en-1"
+},
+
+{
+"title": "علوم الحياة والارض - شعبة العلوم التجريبية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-1-3lm-tj"
+},
+
+{
+"title": "علوم الحياة والارض - شعبة العلوم الرياضية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-1-mth"
+},
+
+{
+"title": "علوم الحياة والارض - شعبة الآداب والعلوم الإنسانية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-1-adab"
+},
+
+{
+"title": "علوم الحياة والارض – خيار فرنسية علوم تجريبية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-1-3lm-tjr-fr"
+},
+
+{
+"title": "علوم الحياة والارض – خيار فرنسية علوم رياضية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "svt-0-mth-fr"
+}
+
+],
+
+
+"tanya-bac": [
+
+{
+"title": "اللغة العربية",
+"image": "ic_arabic",
+"image_page_video": "img_arabic",
+"typ-doro": "0"
+},
+
+{
+"title": "التاريخ",
+"image": "ic_history",
+"image_page_video": "img_history",
+"typ-doro": "0"
+},
+
+{
+"title": "الجغرافيا",
+"image": "ic_geography",
+"image_page_video": "img_geography",
+"typ-doro": "0"
+},
+
+{
+"title": "التربية الإسلامية",
+"image": "ic_islamic",
+"image_page_video": "img_islamic",
+"typ-doro": "0"
+},
+
+{
+"title": "الرياضيات",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "0"
+},
+
+{
+"title": "الرياضيات – خيار فرنسية علوم الحياة والارض",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "0"
+},
+
+{
+"title": "الرياضيات – خيار فرنسية علوم فيزيائية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "0"
+},
+
+{
+"title": "الرياضيات – خيار فرنسية علوم رياضية",
+"image": "ic_maths",
+"image_page_video": "img_maths",
+"typ-doro": "0"
+},
+
+{
+"title": "اللغة الفرنسية",
+"image": "ic_francais",
+"image_page_video": "img_french",
+"typ-doro": "0"
+},
+
+{
+"title": "الفيزياء والكيمياء",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "0"
+},
+
+{
+"title": "الفيزياء والكيمياء – خيار فرنسية علوم الحياة والارض",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "0"
+},
+
+{
+"title": "الفيزياء والكيمياء – خيار فرنسية علوم فيزيائية",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "0"
+},
+
+{
+"title": "الفيزياء والكيمياء – خيار فرنسية علوم رياضية",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "0"
+},
+
+{
+"title": "الفلسفة",
+"image": "ic_philosophie",
+"image_page_video": "img_philosophie",
+"typ-doro": "0"
+},
+
+{
+"title": "اللغة الانجليزية",
+"image": "ic_englais",
+"image_page_video": "img_english",
+"typ-doro": "0"
+},
+
+{
+"title": "علوم الحياة والارض",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "0"
+},
+
+{
+"title": "علوم الحياة والارض – خيار فرنسية علوم الحياة والارض",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "0"
+},
+
+{
+"title": "علوم الحياة والارض – خيار فرنسية علوم فيزيائية",
+"image": "ic_sciences",
+"image_page_video": "img_svt",
+"typ-doro": "0"
+},
+
+{
+"title": "علوم الحياة والارض – خيار فرنسية علوم رياضية",
+"image": "ic_chemistry",
+"image_page_video": "img_chemistry",
+"typ-doro": "0"
+}
+
+]
+}
