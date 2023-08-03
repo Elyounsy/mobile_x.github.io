@@ -1,424 +1,567 @@
 {
-  "jid3-mo": [
-
+"samsung": [
 {
-"title": "اللغة العربية – اداب",
-"image": "ic_arabic",
-"image_page_video": "img_arabic",
-"typ-doro": "arabic-0"
-
+"name": "A 03",
+"prix": "1310",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/03/Samsung-Galaxy-A03.jpg",
+"gb": "64",
+"ram": "4"
 },
 
 {
-"title": "التاريخ - علمي (علوم)",
-"image": "ic_history",
-"image_page_video": "img_history",
-"typ-doro": "history-0-3olom"
+"name": "A 03",
+"prix": "1450",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/03/Samsung-Galaxy-A03.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "التاريخ - اداب وعلوم انسانية",
-"image": "ic_history",
-"image_page_video": "img_history",
-"typ-doro": "history-0-adab"
+"name": "A 03core",
+"prix": "950",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2021/12/Samsung-Galaxy-A03-Core.jpg",
+"gb": "32",
+"ram": "2"
 },
 
 {
-"title": "الجغرافيا - علمي (علوم)",
-"image": "ic_geography",
-"image_page_video": "img_geography",
-"typ-doro": "geo-0-3olom"
+"name": "A 04e",
+"prix": "960",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04e.jpg",
+"gb": "32",
+"ram": "3"
 },
 
 {
-"title": "الجغرافيا - اداب وعلوم انسانية",
-"image": "ic_geography",
-"image_page_video": "img_geography",
-"typ-doro": "geo-0-adab"
+"name": "A 04",
+"prix": "1160",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04.jpg",
+"gb": "64",
+"ram": "4"
 },
 
 {
-"title": "التربية الإسلامية",
-"image": "ic_islamic",
-"image_page_video": "img_islamic",
-"typ-doro": "islamic-0"
+"name": "A 04",
+"prix": "1510",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الرياضيات",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "maths-0"
+"name": "A 04s",
+"prix": "1350",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/09/Samsung-Galaxy-A04s.jpg",
+"gb": "64",
+"ram": "4"
 },
 
 {
-"title": "الرياضيات – خيار فرنسية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "maths-0-fr"
+"name": "A 04s",
+"prix": "1550",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/09/Samsung-Galaxy-A04s.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الرياضيات – اداب",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "maths-0-adab"
+"name": "A 23",
+"prix": "2300",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/03/Samsung-Galaxy-A23.jpg",
+"gb": "128",
+"ram": "6"
 },
 
 {
-"title": "اللغة الفرنسية",
-"image": "ic_francais",
-"image_page_video": "img_french",
-"typ-doro": "fr-0"
+"name": "A 24",
+"prix": "2410",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/04/Samsung-Galaxy-A24-4G.jpg",
+"gb": "128",
+"ram": "6"
 },
 
 {
-"title": "الفيزياء والكيمياء",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "pc-0"
+"name": "M33",
+"prix": "2520",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/08/Samsung-Galaxy-M33.jpg",
+"gb": "128",
+"ram": "6"
 },
 
 {
-"title": "الفيزياء والكيمياء – خيار فرنسية",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "pc-0-fr"
+"name": "A 14",
+"prix": "1560",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg",
+"gb": "64",
+"ram": "4"
 },
 
 {
-"title": "الفلسفة",
-"image": "ic_philosophie",
-"image_page_video": "img_philosophie",
-"typ-doro": "philo-0"
-},
-
-{
-"title": "اللغة الانجليزية",
-"image": "ic_englais",
-"image_page_video": "img_english",
-"typ-doro": "en-0"
-},
-
-{
-"title": "علوم الحياة والارض",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-0"
-},
-
-{
-"title": "علوم الحياة والارض – خيار فرنسية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-0-fr"
-},
-
-{
-"title": "علوم الحياة والارض – اداب",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-0-adab"
+"name": "A 14",
+"prix": "1760",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg",
+"gb": "128",
+"ram": "4"
 }
 
 ],
 
 
-"oula-bac": [
-
+"redmi": [
 {
-"title": "اللغة العربية – اداب وعلوم انسانية",
-"image": "ic_arabic",
-"image_page_video": "img_arabic",
-"typ-doro": "arabic-1-adb"
+	{
+"name": "A1+",
+"prix": "980",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Xiaomi-Redmi-A1-Plus.jpg",
+"gb": "32",
+"ram": "2"
 },
 
 {
-"title": "اللغة العربية – علوم",
-"image": "ic_arabic",
-"image_page_video": "img_arabic",
-"typ-doro": "arabic-0-3lm"
+"name": "A2",
+"prix": "785",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Redmi-A2.jpg",
+"gb": "32",
+"ram": "2"
 },
 
 {
-"title": "التاريخ - للشعب العلمية والتقنية",
-"image": "ic_history",
-"image_page_video": "img_history",
-"typ-doro": "history-1-3lm"
+"name": "A2+",
+"prix": "820",
+"img": "https://mob4g.com/wp-content/uploads/2023/03/Redmi-A2-Plus-600x600.webp",
+"gb": "32",
+"ram": "2"
 },
 
 {
-"title": "التاريخ - للشعب الأدبية",
-"image": "ic_history",
-"image_page_video": "img_history",
-"typ-doro": "history-1-adb"
+"name": "R 10A",
+"prix": "1610",
+"img": "https://mob4g.com/wp-content/uploads/2021/03/Redmi-10A.webp",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الجغرافيا - للشعب العلمية والتقنية",
-"image": "ic_geography",
-"image_page_video": "img_geography",
-"typ-doro": "geo-1-3lm"
+"name": "R 10C",
+"prix": "1715",
+"img": "https://mob4g.com/wp-content/uploads/2021/03/Redmi-10C.webp",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الجغرافيا - للشعب الأدبية",
-"image": "ic_geography",
-"image_page_video": "img_geography",
-"typ-doro": "geo-1-adb"
+"name": "R 10",
+"prix": "1650",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/07/Xiaomi-Redmi-10-2022.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "التربية الإسلامية",
-"image": "ic_islamic",
-"image_page_video": "img_islamic",
-"typ-doro": "islamic-1"
-},
-
-
-{
-"title": "الرياضيات – شعبة الأداب والعلوم الانسانية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "math-1-adb"
+"name": "Note 11",
+"prix": "2260",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/01/Xiaomi-Redmi-Note-11.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الرياضيات – شعبة العلوم التجريبية و التكنولوجيات",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "math-1-3lm-tj"
+"name": "Note 11s",
+"prix": "2200",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/01/Xiaomi-Redmi-Note-11s.jpg",
+"gb": "128",
+"ram": "8"
 },
 
 {
-"title": "الرياضيات – خيار فرنسية علوم تجريبية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "math-1-3lm-tj-fr"
+"name": "Note 11pro",
+"prix": "2920",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/05/Xiaomi-Redmi-Note-11-Pro-4G.jpg",
+"gb": "128",
+"ram": "8"
 },
 
 {
-"title": "الرياضيات – شعبة العلوم الرياضية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "math-0-3lm-mth"
+"name": "R 12",
+"prix": "1575",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الرياضيات – خيار فرنسية علوم رياضية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "math-0-fr-mth"
+"name": "R 12",
+"prix": "1920",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg",
+"gb": "256",
+"ram": "8"
 },
 
 {
-"title": "اللغة الفرنسية",
-"image": "ic_francais",
-"image_page_video": "img_french",
-"typ-doro": "fr-1"
+"name": "R 12C",
+"prix": "1138",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg",
+"gb": "64",
+"ram": "3"
 },
 
 {
-"title": "الفيزياء والكيمياء - علوم رياضية وتجريبية",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "pc-1"
+"name": "R 12C",
+"prix": "1380",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "الفيزياء والكيمياء – خيار فرنسية علوم تجريبية ورياضية",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "pc-1-3lm-tj-fr"
-},
-
-
-{
-"title": "الفلسفة",
-"image": "ic_philosophie",
-"image_page_video": "img_philosophie",
-"typ-doro": "philo-1"
+"name": "Note 12",
+"prix": "1800",
+"img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg",
+"gb": "128",
+"ram": "4"
 },
 
 {
-"title": "اللغة الانجليزية",
-"image": "ic_englais",
-"image_page_video": "img_english",
-"typ-doro": "en-1"
+"name": "Note 12",
+"prix": "2147",
+"img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg",
+"gb": "128",
+"ram": "6"
 },
 
 {
-"title": "علوم الحياة والارض - شعبة العلوم التجريبية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-1-3lm-tj"
+"name": "Note 12",
+"prix": "2200",
+"img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg",
+"gb": "128",
+"ram": "8"
 },
 
 {
-"title": "علوم الحياة والارض - شعبة العلوم الرياضية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-1-mth"
+"name": "Note 12s",
+"prix": "2552",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-Note-12S-4G.jpg",
+"gb": "256",
+"ram": "8"
 },
 
 {
-"title": "علوم الحياة والارض - شعبة الآداب والعلوم الإنسانية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-1-adab"
+"name": "Note 12 pro",
+"prix": "3150",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-Note-12-Pro-4G.jpg",
+"gb": "256",
+"ram": "8"
+}
+],
+
+
+	"infinix": [
+
+	{
+"name": "SMART 7",
+"prix": "970",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Infinix-Smart-7.jpg",
+"gb": "64",
+"ram": "4+3"
 },
 
 {
-"title": "علوم الحياة والارض – خيار فرنسية علوم تجريبية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-1-3lm-tjr-fr"
+"name": "SMART 7HD",
+"prix": "880",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Infinix-Smart-7.jpg",
+"gb": "64",
+"ram": "2+2"
 },
 
 {
-"title": "علوم الحياة والارض – خيار فرنسية علوم رياضية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "svt-0-mth-fr"
+"name": "HOT 20i",
+"prix": "1400",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/02/Infinix-Hot-20i.jpg",
+"gb": "128",
+"ram": "4+3"
+},
+
+{
+"name": "HOT 20i",
+"prix": "1260",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/02/Infinix-Hot-20i.jpg",
+"gb": "64",
+"ram": "4+3"
+},
+
+{
+"name": "HOT 30",
+"prix": "1560",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30-5G.jpg",
+"gb": "128",
+"ram": "8+8"
+},
+
+{
+"name": "HOT 30i",
+"prix": "1379",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30i.jpg",
+"gb": "128",
+"ram": "8+8"
+},
+
+{
+"name": "HOT 30i",
+"prix": "1217",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30i.jpg",
+"gb": "128",
+"ram": "4+4"
+},
+
+{
+"name": "Note 30",
+"prix": "2050",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Infinix-Note-30-VIP.jpg",
+"gb": "256",
+"ram": "8+8"
+}
+],
+
+"oppo": [
+
+	{
+"name": "Reno8T 5G",
+"prix": "4500",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/02/Oppo-Reno-8T-1.jpg",
+"gb": "256",
+"ram": "8"
+},
+
+{
+"name": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/02/Oppo-Reno-8T-1.jpg",
+"prix": "3460",
+"img": "00000",
+"gb": "256",
+"ram": "8"
+},
+
+{
+"name": "A77s",
+"prix": "2440",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/10/Oppo-A77s-1.jpg",
+"gb": "128",
+"ram": "8"
+},
+
+{
+"name": "A77",
+"prix": "2160",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Oppo-A77-4G.jpg",
+"gb": "128",
+"ram": "4"
+},
+
+{
+"name": "A17",
+"prix": "1555",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Oppo-A17.jpg",
+"gb": "64",
+"ram": "4"
+},
+
+{
+"name": "A17k",
+"prix": "1240",
+"img": "https://d2xamzlzrdbdbn.cloudfront.net/products/0bff384d-9d37-4f92-ac0f-f680799cde9022171244.jpg",
+"gb": "64",
+"ram": "3"
+},
+
+{
+"name": "A96",
+"prix": "3300",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/03/Oppo-A96-1.jpg",
+"gb": "256",
+"ram": "8"
+},
+
+{
+"name": "A53",
+"prix": "0000",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2020/10/Oppo-A53-1.jpg",
+"gb": "64",
+"ram": "4"
+},
+
+{
+"name": "A16",
+"prix": "0000",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2021/08/oppo-a16.jpg",
+"gb": "64",
+"ram": "4"
 }
 
 ],
 
+"itel": [
 
-"tanya-bac": [
-
-{
-"title": "اللغة العربية",
-"image": "ic_arabic",
-"image_page_video": "img_arabic",
-"typ-doro": "0"
+	{
+"name": "S23",
+"prix": "980",
+"img": "https://mob4g.com/wp-content/uploads/2023/05/itel-S23-2-1-600x600.webp",
+"gb": "128",
+"ram": "8"
 },
 
 {
-"title": "التاريخ",
-"image": "ic_history",
-"image_page_video": "img_history",
-"typ-doro": "0"
+"name": "P40",
+"prix": "930",
+"img": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/751626/1.jpg?6743",
+"gb": "64",
+"ram": "4+3"
 },
 
 {
-"title": "الجغرافيا",
-"image": "ic_geography",
-"image_page_video": "img_geography",
-"typ-doro": "0"
-},
-
-{
-"title": "التربية الإسلامية",
-"image": "ic_islamic",
-"image_page_video": "img_islamic",
-"typ-doro": "0"
-},
-
-{
-"title": "الرياضيات",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "0"
-},
-
-{
-"title": "الرياضيات – خيار فرنسية علوم الحياة والارض",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "0"
-},
-
-{
-"title": "الرياضيات – خيار فرنسية علوم فيزيائية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "0"
-},
-
-{
-"title": "الرياضيات – خيار فرنسية علوم رياضية",
-"image": "ic_maths",
-"image_page_video": "img_maths",
-"typ-doro": "0"
-},
-
-{
-"title": "اللغة الفرنسية",
-"image": "ic_francais",
-"image_page_video": "img_french",
-"typ-doro": "0"
-},
-
-{
-"title": "الفيزياء والكيمياء",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "0"
-},
-
-{
-"title": "الفيزياء والكيمياء – خيار فرنسية علوم الحياة والارض",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "0"
-},
-
-{
-"title": "الفيزياء والكيمياء – خيار فرنسية علوم فيزيائية",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "0"
-},
-
-{
-"title": "الفيزياء والكيمياء – خيار فرنسية علوم رياضية",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "0"
-},
-
-{
-"title": "الفلسفة",
-"image": "ic_philosophie",
-"image_page_video": "img_philosophie",
-"typ-doro": "0"
-},
-
-{
-"title": "اللغة الانجليزية",
-"image": "ic_englais",
-"image_page_video": "img_english",
-"typ-doro": "0"
-},
-
-{
-"title": "علوم الحياة والارض",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "0"
-},
-
-{
-"title": "علوم الحياة والارض – خيار فرنسية علوم الحياة والارض",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "0"
-},
-
-{
-"title": "علوم الحياة والارض – خيار فرنسية علوم فيزيائية",
-"image": "ic_sciences",
-"image_page_video": "img_svt",
-"typ-doro": "0"
-},
-
-{
-"title": "علوم الحياة والارض – خيار فرنسية علوم رياضية",
-"image": "ic_chemistry",
-"image_page_video": "img_chemistry",
-"typ-doro": "0"
+"name": "S18",
+"prix": "830",
+"img": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/03/613626/1.jpg?8623",
+"gb": "64",
+"ram": "2+2"
 }
+
+],
+
+"realmi": [
+
+	{
+"name": "C55",
+"prix": "1980",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Realme-C55-1.jpg",
+"gb": "256",
+"ram": "8"
+},
+
+{
+"name": "Rel 10",
+"prix": "2630",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Realme-10-1.jpg",
+"gb": "256",
+"ram": "8"
+},
+
+{
+"name": "C30s",
+"prix": "960",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Realme-C30s.jpg",
+"gb": "32",
+"ram": "2"
+},
+
+{
+"name": "C30s",
+"prix": "1150",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Realme-C30s.jpg",
+"gb": "64",
+"ram": "4"
+}
+],
+
+"honor": [
+
+	{
+"name": "X5",
+"prix": "1000",
+"img": "https://mob4g.com/wp-content/uploads/2022/12/Honor-X5-600x600.webp",
+"gb": "32",
+"ram": "2"
+},
+
+{
+"name": "X6",
+"prix": "1190",
+"img": "https://gsm.ma/wp-content/uploads/2023/01/001.jpg",
+"gb": "64",
+"ram": "4"
+},
+
+{
+"name": "X6",
+"prix": "1500",
+"img": "https://gsm.ma/wp-content/uploads/2023/01/001.jpg",
+"gb": "128",
+"ram": "4"
+},
+
+{
+"name": "X7 a",
+"prix": "1695",
+"img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/01/Honor-X7a.jpg",
+"gb": "128",
+"ram": "4"
+},
+
+{
+"name": "X8",
+"prix": "2200",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/03/Honor-X8.jpg",
+"gb": "128",
+"ram": "6"
+},
+
+{
+"name": "X8 a",
+"prix": "2000",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Honor-X8a.jpg",
+"gb": "128",
+"ram": "6"
+},
+
+{
+"name": "X8 a",
+"prix": "2190",
+"img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Honor-X8a.jpg",
+"gb": "128",
+"ram": "8"
+},
+
+{
+"name": "X9a 5G",
+"prix": "3600",
+"img": "https://specs.yugatech.com/wp-content/uploads/2023/01/HONOR-X9A-720p-jpg-600x600.webp",
+"gb": "256",
+"ram": "8"
+}
+],
+
+"poco": [
+
+	{
+"name": "M5s",
+"prix": "2000",
+"img": "https://electrotoufiq.com/storage/2023/03/XIAOMI-POCO-M5s-4GB-RAM-128GB-ROM-Gris.webp",
+"gb": "128",
+"ram": "8"
+},
+
+],
+
+"huawei": [
+
+	{
+"name": "NOVA 9SE",
+"prix": "2600",
+"img": "https://www.marjanemall.ma/media/catalog/product/cache/36c9d346b6653f95ce7222f403adb694/_/p/_pdt2_1_0_0_1_700x700_hua6941487251100_rw_huawei-smartphone-nova-9se-8g-128-blue.jpg",
+"gb": "128",
+"ram": "8"
+},
+
+],
+
+
+"tecno": [
+	{
+"name": "M5s",
+"prix": "2000",
+"img": "00000",
+"gb": "128",
+"ram": "8"
+},
 
 ]
+
 }
