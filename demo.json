@@ -50,7 +50,7 @@
   
      { 
        "name": "A 04s", 
-       "prix": "1350 DH", 
+       "prix": "1330 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/09/Samsung-Galaxy-A04s.jpg", 
        "gb": "64", 
        "ram": "4" 
@@ -58,7 +58,7 @@
   
      { 
        "name": "A 04s", 
-       "prix": "1550 DH", 
+       "prix": "1530 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/09/Samsung-Galaxy-A04s.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -98,7 +98,7 @@
   
      { 
        "name": "A 14", 
-       "prix": "1760 DH", 
+       "prix": "1750 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -196,10 +196,17 @@
        "gb": "128", 
        "ram": "4" 
      }, 
+{ 
+       "name": "R 12", 
+       "prix": "1790 DH", 
+       "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg", 
+       "gb": "128", 
+       "ram": "8" 
+     }, 
   
      { 
        "name": "R 12", 
-       "prix": "1920 DH", 
+       "prix": "1930 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg", 
        "gb": "256", 
        "ram": "8" 
@@ -207,7 +214,7 @@
   
      { 
        "name": "R 12C", 
-       "prix": "1138 DH", 
+       "prix": "1090 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg", 
        "gb": "64", 
        "ram": "3" 
@@ -215,10 +222,17 @@
   
      { 
        "name": "R 12C", 
-       "prix": "1380 DH", 
+       "prix": "1285 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg", 
        "gb": "128", 
        "ram": "4" 
+     }, 
+{ 
+       "name": "R 12C", 
+       "prix": "1490 DH", 
+       "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg", 
+       "gb": "128", 
+       "ram": "6" 
      }, 
   
      { 
@@ -255,7 +269,7 @@
   
      { 
        "name": "Note 12 pro", 
-       "prix": "3150 DH", 
+       "prix": "2860 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-Note-12-Pro-4G.jpg", 
        "gb": "256", 
        "ram": "8" 
@@ -432,7 +446,7 @@
   
      { 
        "name": "P40", 
-       "prix": "930 DH", 
+       "prix": "915 DH", 
        "img": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/751626/1.jpg?6743", 
        "gb": "64", 
        "ram": "4+3" 
