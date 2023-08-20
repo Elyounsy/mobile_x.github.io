@@ -283,7 +283,7 @@
   
      { 
        "name": "SMART 7", 
-       "prix": "970 DH", 
+       "prix": "930 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Infinix-Smart-7.jpg", 
        "gb": "64", 
        "ram": "4+3" 
@@ -291,7 +291,7 @@
   
      { 
        "name": "SMART 7HD", 
-       "prix": "880 DH", 
+       "prix": "850 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Infinix-Smart-7.jpg", 
        "gb": "64", 
        "ram": "2+2" 
@@ -315,7 +315,14 @@
   
      { 
        "name": "HOT 30", 
-       "prix": "1560 DH", 
+       "prix": "1690 DH", 
+       "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30-5G.jpg", 
+       "gb": "256", 
+       "ram": "8+8" 
+     }, 
+{ 
+       "name": "HOT 30", 
+       "prix": "1460 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30-5G.jpg", 
        "gb": "128", 
        "ram": "8+8" 
@@ -323,7 +330,7 @@
   
      { 
        "name": "HOT 30i", 
-       "prix": "1379 DH", 
+       "prix": "1300 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30i.jpg", 
        "gb": "128", 
        "ram": "8+8" 
@@ -331,7 +338,7 @@
   
      { 
        "name": "HOT 30i", 
-       "prix": "1217 DH", 
+       "prix": "1080 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/07/Infinix-Hot-30i.jpg", 
        "gb": "128", 
        "ram": "4+4" 
