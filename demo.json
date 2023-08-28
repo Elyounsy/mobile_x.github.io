@@ -29,12 +29,19 @@
        "prix": "960 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04e.jpg", 
        "gb": "32", 
-       "ram": "3" 
+       "ram": "2" 
      }, 
   
+{ 
+       "name": "A 04e", 
+       "prix": "1060 DH", 
+       "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04e.jpg", 
+       "gb": "64", 
+       "ram": "3" 
+     }, 
      { 
        "name": "A 04", 
-       "prix": "1160 DH", 
+       "prix": "1170 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04.jpg", 
        "gb": "64", 
        "ram": "4" 
@@ -50,7 +57,7 @@
   
      { 
        "name": "A 04s", 
-       "prix": "1330 DH", 
+       "prix": "1340 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/09/Samsung-Galaxy-A04s.jpg", 
        "gb": "64", 
        "ram": "4" 
@@ -58,7 +65,7 @@
   
      { 
        "name": "A 04s", 
-       "prix": "1530 DH", 
+       "prix": "1540 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/09/Samsung-Galaxy-A04s.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -90,7 +97,7 @@
   
      { 
        "name": "A 14", 
-       "prix": "1560 DH", 
+       "prix": "1550 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg", 
        "gb": "64", 
        "ram": "4" 
@@ -98,17 +105,17 @@
   
      { 
        "name": "A 14", 
-       "prix": "1750 DH", 
+       "prix": "1760 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg", 
        "gb": "128", 
        "ram": "4" 
      }, 
       { 
-       "name": "--", 
-       "prix": "-- DH", 
+       "name": "A54 5G", 
+       "prix": "4230 DH", 
        "img": "---", 
-       "gb": "--", 
-       "ram": "--" 
+       "gb": "256", 
+       "ram": "8" 
      } 
   
    ], 
@@ -127,7 +134,7 @@
   
      { 
        "name": "A2", 
-       "prix": "785 DH", 
+       "prix": "790 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Redmi-A2.jpg", 
        "gb": "32", 
        "ram": "2" 
@@ -135,10 +142,10 @@
   
      { 
        "name": "A2+", 
-       "prix": "820 DH", 
+       "prix": "890 DH", 
        "img": "https://mob4g.com/wp-content/uploads/2023/03/Redmi-A2-Plus-600x600.webp", 
-       "gb": "32", 
-       "ram": "2" 
+       "gb": "64", 
+       "ram": "3" 
      }, 
   
      { 
@@ -198,7 +205,7 @@
      }, 
 { 
        "name": "R 12", 
-       "prix": "1790 DH", 
+       "prix": "1785 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg", 
        "gb": "128", 
        "ram": "8" 
@@ -245,7 +252,7 @@
   
      { 
        "name": "Note 12", 
-       "prix": "2147 DH", 
+       "prix": "1835 DH", 
        "img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg", 
        "gb": "128", 
        "ram": "6" 
@@ -256,6 +263,14 @@
        "prix": "2200 DH", 
        "img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg", 
        "gb": "128", 
+       "ram": "8" 
+     }, 
+
+{ 
+       "name": "Note 12", 
+       "prix": "2225 DH", 
+       "img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg", 
+       "gb": "256", 
        "ram": "8" 
      }, 
   
@@ -450,6 +465,13 @@
        "gb": "128", 
        "ram": "8" 
      }, 
+{ 
+       "name": "S23", 
+       "prix": "1160 DH", 
+       "img": "https://mob4g.com/wp-content/uploads/2023/05/itel-S23-2-1-600x600.webp", 
+       "gb": "256", 
+       "ram": "8" 
+     }, 
   
      { 
        "name": "P40", 
@@ -467,11 +489,11 @@
        "ram": "2+2" 
      }, 
       { 
-       "name": "--", 
-       "prix": "-- DH", 
+       "name": "A60", 
+       "prix": "850 DH", 
        "img": "---", 
-       "gb": "--", 
-       "ram": "--" 
+       "gb": "128", 
+       "ram": "4" 
      } 
   
    ], 
