@@ -148,7 +148,7 @@
   
      { 
        "name": "A2", 
-       "prix": "790 DH", 
+       "prix": "787 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Redmi-A2.jpg", 
        "gb": "32", 
        "ram": "2" 
@@ -243,7 +243,7 @@
   
      { 
        "name": "R 12C", 
-       "prix": "1285 DH", 
+       "prix": "1290 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -258,7 +258,7 @@
   
      { 
        "name": "Note 12", 
-       "prix": "1800 DH", 
+       "prix": "1683 DH", 
        "img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -266,7 +266,7 @@
   
      { 
        "name": "Note 12", 
-       "prix": "1835 DH", 
+       "prix": "1830 DH", 
        "img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg", 
        "gb": "128", 
        "ram": "6" 
@@ -298,7 +298,7 @@
   
      { 
        "name": "Note 12 pro", 
-       "prix": "2860 DH", 
+       "prix": "2830 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-Note-12-Pro-4G.jpg", 
        "gb": "256", 
        "ram": "8" 
@@ -489,7 +489,7 @@
   
      { 
        "name": "P40", 
-       "prix": "915 DH", 
+       "prix": "910 DH", 
        "img": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/751626/1.jpg?6743", 
        "gb": "64", 
        "ram": "4+3" 
@@ -664,17 +664,17 @@
    "tecno": [ 
      { 
        "name": "SPARK 7", 
-       "prix": "830 DH", 
+       "prix": "890 DH", 
        "img": "00000", 
        "gb": "64", 
        "ram": "4" 
      }, 
       { 
-       "name": "--", 
-       "prix": "-- DH", 
+       "name": "10c", 
+       "prix": "1000 DH", 
        "img": "---", 
-       "gb": "--", 
-       "ram": "--" 
+       "gb": "4", 
+       "ram": "128" 
      } 
   
    ] 
