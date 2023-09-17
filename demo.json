@@ -34,7 +34,7 @@
   
 { 
        "name": "A 04e", 
-       "prix": "1060 DH", 
+       "prix": "1050 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04e.jpg", 
        "gb": "64", 
        "ram": "3" 
@@ -105,7 +105,7 @@
   
      { 
        "name": "A 14", 
-       "prix": "1760 DH", 
+       "prix": "1730 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -116,6 +116,20 @@
        "img": "---", 
        "gb": "256", 
        "ram": "8" 
+     },
+{ 
+       "name": "Aab A7 Lite", 
+       "prix": "1560 DH", 
+       "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Samsung-Galaxy-A14.jpg", 
+       "gb": "32", 
+       "ram": "2" 
+     }, 
+      { 
+       "name": "Tab A7 Lite", 
+       "prix": "1760 DH", 
+       "img": "---", 
+       "gb": "74", 
+       "ram": "4" 
      } 
   
    ], 
