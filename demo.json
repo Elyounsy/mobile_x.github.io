@@ -113,7 +113,7 @@
       { 
        "name": "A54 5G", 
        "prix": "4230 DH", 
-       "img": "---", 
+       "img": "https://images.samsung.com/is/image/samsung/p6pim/n_africa/sm-a546elgcmwd/gallery/n-africa-galaxy-a54-5g-sm-a546-sm-a546elgcmwd-535764214?$650_519_PNG$", 
        "gb": "256", 
        "ram": "8" 
      },
@@ -505,7 +505,7 @@
       { 
        "name": "A60s", 
        "prix": "850 DH", 
-       "img": "---", 
+       "img": "https://www.pakmobizone.pk/wp-content/uploads/2023/01/itel-A60s-Shadow-Black-3.jpg", 
        "gb": "128", 
        "ram": "4" 
      }
@@ -575,6 +575,13 @@
        "gb": "128", 
        "ram": "4" 
      }, 
+{ 
+       "name": "X6a", 
+       "prix": "1290 DH", 
+       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpubte52WZKsn4ttTfvPUVPDMylhz4q3CfyHtBa_w5cn5WishnXBzb1D8fW5nauyF2oGiHO48i_sPSifzPxn-9lyNDxee_xCb8CtTwLDMHk7cXTllxu8bS6whFNKAFzUcB47LYrr-6BMzwXbHS5faEXE2PUQ1JULVjBPyOW051tcy3MHhV5-5w-zR6nl1q/s1600-rw-e90/Honor%20X6a.png", 
+       "gb": "128", 
+       "ram": "4" 
+     }, 
   
      { 
        "name": "X7 a", 
@@ -606,6 +613,13 @@
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Honor-X8a.jpg", 
        "gb": "128", 
        "ram": "8" 
+     }, 
+{ 
+       "name": "90 Lite", 
+       "prix": "2190 DH", 
+       "img": "https://mobizil.com/wp-content/uploads/2023/07/Honor-90-Lite.jpg", 
+       "gb": "256", 
+       "ram": "8+5" 
      }, 
   
      { 
@@ -672,7 +686,7 @@
       { 
        "name": "10c", 
        "prix": "1000 DH", 
-       "img": "---", 
+       "img": "https://d3fyizz0b46qgr.cloudfront.net/global/phones/spark10c/blue.png", 
        "gb": "4", 
        "ram": "128" 
      } 
