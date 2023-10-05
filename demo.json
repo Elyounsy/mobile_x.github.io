@@ -34,7 +34,7 @@
   
 { 
        "name": "A 04e", 
-       "prix": "1050 DH", 
+       "prix": "1040 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Samsung-Galaxy-A04e.jpg", 
        "gb": "64", 
        "ram": "3" 
@@ -81,7 +81,7 @@
   
      { 
        "name": "A 24", 
-       "prix": "2410 DH", 
+       "prix": "2400 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/04/Samsung-Galaxy-A24-4G.jpg", 
        "gb": "128", 
        "ram": "6" 
@@ -489,7 +489,7 @@
   
      { 
        "name": "P40", 
-       "prix": "910 DH", 
+       "prix": "890 DH", 
        "img": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/751626/1.jpg?6743", 
        "gb": "64", 
        "ram": "4+3" 
@@ -517,7 +517,7 @@
   
      { 
        "name": "C55", 
-       "prix": "1980 DH", 
+       "prix": "1970 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Realme-C55-1.jpg", 
        "gb": "256", 
        "ram": "8" 
@@ -531,6 +531,13 @@
        "ram": "8" 
      }, 
   
+{ 
+       "name": "C53", 
+       "prix": "1420 DH", 
+       "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2022/11/Realme-C30s.jpg", 
+       "gb": "128", 
+       "ram": "6" 
+     }, 
      { 
        "name": "C30s", 
        "prix": "960 DH", 
@@ -538,6 +545,7 @@
        "gb": "32", 
        "ram": "2" 
      }, 
+
   
      { 
        "name": "C30s", 
