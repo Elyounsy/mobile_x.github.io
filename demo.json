@@ -156,7 +156,7 @@
   
      { 
        "name": "A2+", 
-       "prix": "890 DH", 
+       "prix": "895 DH", 
        "img": "https://mob4g.com/wp-content/uploads/2023/03/Redmi-A2-Plus-600x600.webp", 
        "gb": "64", 
        "ram": "3" 
@@ -212,14 +212,14 @@
   
      { 
        "name": "R 12", 
-       "prix": "1575 DH", 
+       "prix": "1585 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg", 
        "gb": "128", 
        "ram": "4" 
      }, 
-{ 
+ { 
        "name": "R 12", 
-       "prix": "1785 DH", 
+       "prix": "1714 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-12.jpg", 
        "gb": "128", 
        "ram": "8" 
@@ -232,7 +232,6 @@
        "gb": "256", 
        "ram": "8" 
      }, 
-  
      { 
        "name": "R 12C", 
        "prix": "1090 DH", 
@@ -243,14 +242,14 @@
   
      { 
        "name": "R 12C", 
-       "prix": "1290 DH", 
+       "prix": "1285 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg", 
        "gb": "128", 
        "ram": "4" 
      }, 
 { 
        "name": "R 12C", 
-       "prix": "1490 DH", 
+       "prix": "1330 DH", 
        "img": "https://cdn.shortpixel.ai/spai/w_990+q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-12C.jpg", 
        "gb": "128", 
        "ram": "6" 
@@ -258,7 +257,7 @@
   
      { 
        "name": "Note 12", 
-       "prix": "1683 DH", 
+       "prix": "1685 DH", 
        "img": "https://mobizil.com/wp-content/uploads/2023/03/Xiaomi-Redmi-Note-12-4G.jpg", 
        "gb": "128", 
        "ram": "4" 
@@ -298,7 +297,7 @@
   
      { 
        "name": "Note 12 pro", 
-       "prix": "2830 DH", 
+       "prix": "2850 DH", 
        "img": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/https://mobizil.com/wp-content/uploads/2023/06/Xiaomi-Redmi-Note-12-Pro-4G.jpg", 
        "gb": "256", 
        "ram": "8" 
